@@ -1,0 +1,6 @@
+.Logo {
+  display: flex;
+  font-size: 18px;
+  align-items: center; /* Centraliza os itens verticalmente */
+  gap: 10px; /* Adiciona um espaçamento de 10 pixels entre os itens */
+}
